@@ -1,2 +1,3 @@
-# KadasAgro
-my sitweb KadasAgro
+# KadasAgri 
+Consulting and Solution 
+Precision Farming
